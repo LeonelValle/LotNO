@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ROI-LotNo", "ROI-LotNo\ROI-LotNo.csproj", "{26CD03A2-FA73-490C-9BD9-6FFF8E1F8439}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CartCheck", "CartCheck\CartCheck.csproj", "{F175C072-F0BB-4C55-ACBA-68E4E8488B58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26CD03A2-FA73-490C-9BD9-6FFF8E1F8439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26CD03A2-FA73-490C-9BD9-6FFF8E1F8439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26CD03A2-FA73-490C-9BD9-6FFF8E1F8439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26CD03A2-FA73-490C-9BD9-6FFF8E1F8439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F175C072-F0BB-4C55-ACBA-68E4E8488B58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F175C072-F0BB-4C55-ACBA-68E4E8488B58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F175C072-F0BB-4C55-ACBA-68E4E8488B58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F175C072-F0BB-4C55-ACBA-68E4E8488B58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {499A6DB0-B6EA-41C4-91F6-477F926BE514}
+	EndGlobalSection
+EndGlobal
